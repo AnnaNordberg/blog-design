@@ -1,0 +1,55 @@
+.header {
+    line-height: 20px;
+    padding: 20px 0 0;
+    
+}
+
+.header-text {
+    margin-bottom: 40px;
+}
+
+.logo {
+    font-family: Arial, Helvetica, sans-serif;
+    letter-spacing: 15px;
+    font-size: 28px;
+    text-align: center;
+}
+
+.tagline {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    margin-top: 15px;
+    color: #646464;
+    font-size: 18px;
+}
+
+
+
+.navbar {
+    height: 150px;
+    border-top: solid  #646464 0.4px;
+    border-bottom: solid  #646464 0.4px;
+    display: flex;
+    justify-content: center;
+}
+
+button {
+    margin-top: 0.1px;
+    margin-left: 10px;
+    margin-right: 10px;
+    height: 80px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    padding: 12px;
+    border: transparent;
+    
+}
+
+.homeBtn {
+    background-color: #d4d4d4;
+}
+
+.dropdown { 
+    margin-top:2px;
+    
+}

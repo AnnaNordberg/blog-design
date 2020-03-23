@@ -1,0 +1,15 @@
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.cardContainer {
+    margin-top: 17px;
+    display: flex;
+    flex-direction: row;
+}
+
+.card {
+    margin:3px;
+}
